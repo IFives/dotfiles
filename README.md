@@ -1,2 +1,2 @@
 # dotfiles
-dotfiles (vmrc, conkyrc, bashrc, ...)
+dotfiles (vmrc, conky, bashrc, ...)
